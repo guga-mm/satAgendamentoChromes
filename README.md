@@ -19,6 +19,7 @@ Este projeto tem como objetivo facilitar o agendamento de Chromebooks para empr�
 - **JavaScript** - 53.1%
 - **CSS** - 31.6%
 - **HTML** - 15.3%
+- API do Google Sheets
 
 ## Instalação
 Para executar o sistema localmente, siga os seguintes passos:
