@@ -28,26 +28,14 @@ Para executar o sistema localmente, siga os seguintes passos:
     git clone https://github.com/guga-mm/satAgendamentoChromes.git
     ```
 
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd satAgendamentoChromes
-    ```
+2. Navegue até o diretório do projeto
 
-3. Instale as dependências necessárias (caso existam):
-    ```bash
-    npm install
-    ```
+3. Altere o CLIENT_ID e API_KEY no arquivo auth.js para os dados corretos de sua implementação da API do Sheets
 
-4. Inicie o servidor local:
-    ```bash
-    npm start
-    ```
+4. Acesse o arquivo HTML index.html
 
 ## Como Usar
-1. Acesse o sistema através do navegador:
-    ```
-    http://localhost:3000
-    ```
+1. Acesse o sistema através do navegador
 
 2. Realize login com suas credenciais.
 
